@@ -97,7 +97,7 @@
 
 
   <!-- Xperia Arc things -->
-  <project path="device/semc/haida" name="android_device_semc_haida" remote="CyanogenMod" revision="ics"/>
+  <project path="device/semc/haida" name="android_device_semc_haida" remote="iambibhas" revision="ics"/>
   <project path="device/semc/urushi" name="android_device_semc_urushi" remote="CyanogenMod" revision="ics"/>
   <project path="device/semc/msm7x30-common" name="android_device_semc_msm7x30-common" remote="CyanogenMod" revision="ics"/>
   <project path="device/semc/mogami-common" name="android_device_semc_mogami-common" remote="CyanogenMod" revision="ics"/>
