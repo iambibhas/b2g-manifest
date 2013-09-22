@@ -99,9 +99,9 @@
 
   <!-- Xperia Arc things -->
   <project path="device/semc/haida" name="android_device_semc_haida" remote="iambibhas" revision="ics"/>
-  <project path="device/semc/urushi" name="android_device_semc_urushi" remote="CyanogenMod" revision="ics"/>
-  <project path="device/semc/msm7x30-common" name="android_device_semc_msm7x30-common" remote="CyanogenMod" revision="ics"/>
-  <project path="device/semc/mogami-common" name="android_device_semc_mogami-common" remote="CyanogenMod" revision="ics"/>
+  <project path="device/semc/urushi" name="android_device_semc_urushi" remote="cm" revision="ics"/>
+  <project path="device/semc/msm7x30-common" name="android_device_semc_msm7x30-common" remote="cm" revision="ics"/>
+  <project path="device/semc/mogami-common" name="android_device_semc_mogami-common" remote="cm" revision="ics"/>
 
   <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="cm" revision="ics"/>
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" revision="07ef2f509a362cc6a5825d0d19143dc4bd2474e0"/>
